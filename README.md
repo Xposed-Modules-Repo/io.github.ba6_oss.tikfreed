@@ -5,7 +5,7 @@ TikFreed 是一款面向 **TikTok 国际版** 的 LSPosed 模块，用于调整 
 
 **作用域**：`com.zhiliaoapp.musically`、`com.ss.android.ugc.trill`、`com.ss.android.ugc.musically.go`
 **Xposed API**：libxposed `minApiVersion=102` / `targetApiVersion=102`（需要支持 API 102 的 LSPosed）
-**版本**：1.0.0（versionCode 1）｜ **日志 tag**：`TikFreed`
+**版本**：1.0.1（versionCode 2）｜ **日志 tag**：`TikFreed`
 
 ## 功能
 
