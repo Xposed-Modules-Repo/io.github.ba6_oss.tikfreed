@@ -5,7 +5,7 @@ TikFreed 是一款面向 **TikTok 国际版** 的 LSPosed 模块，用于调整 
 
 **作用域**：`com.zhiliaoapp.musically`、`com.ss.android.ugc.trill`、`com.ss.android.ugc.musically.go`
 **Xposed API**：libxposed `minApiVersion=102` / `targetApiVersion=102`（需要支持 API 102 的 LSPosed）
-**版本**：1.0.2（versionCode 3）｜ **日志 tag**：`TikFreed`
+**版本**：1.0.3（versionCode 4）｜ **日志 tag**：`TikFreed`
 
 ## 功能
 
@@ -56,6 +56,11 @@ TikFreed 是一款面向 **TikTok 国际版** 的 LSPosed 模块，用于调整 
 本模块仅供学习、研究与个人测试使用。请遵守当地法律法规及平台服务条款。
 
 ## 更新日志
+
+### 1.0.3
+- 评论翻译提速
+- 修复跳过登录时白屏
+- 修复切换视频偶发停顿
 
 ### 1.0.2
 - 适配 TikTok 47.4.3，重新校准全部净化项资源 ID
